@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Learn English For Kids</string>
+    <string name="cik">Exit</string>
+    <string name="soru">Do You Want to Exit Game?</string>
+    <string name="hayir">No</string>
+    <string name="evet">Yes</string>
+
+
+</resources>

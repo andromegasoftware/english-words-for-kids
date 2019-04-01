@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.kadir.learnenglishforkids.giris"
+    android:background="@mipmap/arkaplanyeni">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="30dp"
+            android:layout_weight="0.55"
+            android:orientation="horizontal"
+            tools:layout_editor_absoluteX="100dp">
+
+            <Button
+                android:id="@+id/animals"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="20dp"
+                android:layout_marginRight="20dp"
+                android:layout_weight="1"
+                android:background="@mipmap/animalsb" />
+
+            <Button
+                android:id="@+id/numbers"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:layout_weight="1"
+                android:background="@mipmap/numbersa" />
+
+            <Button
+                android:id="@+id/fruits"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="20dp"
+                android:layout_weight="1"
+                android:background="@mipmap/fruitsa" />
+
+            <Button
+                android:id="@+id/vehicals"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="20dp"
+                android:layout_marginRight="30dp"
+                android:layout_weight="1"
+                android:background="@mipmap/vehicalsa" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="0.6"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/vegatabels"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="30dp"
+                android:layout_marginTop="20dp"
+                android:layout_marginRight="20dp"
+                android:layout_weight="1"
+                android:background="@mipmap/vegatablesa" />
+
+            <Button
+                android:id="@+id/colors"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:layout_weight="1"
+                android:background="@mipmap/colorsa" />
+
+            <Button
+                android:id="@+id/jobs"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="20dp"
+                android:layout_weight="1"
+                android:background="@mipmap/jobsa" />
+
+            <Button
+                android:id="@+id/vucut"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginTop="20dp"
+                android:layout_marginRight="30dp"
+                android:layout_weight="1"
+                android:background="@mipmap/bodypa" />
+
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="0.65"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/exit2"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:layout_alignStart="@+id/words"
+                android:layout_alignLeft="@+id/words"
+                android:layout_alignParentBottom="true"
+                android:layout_marginLeft="40dp"
+                android:background="@mipmap/exitb" />
+
+            <Button
+                android:id="@+id/arti"
+                android:layout_width="73dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="75dp"
+                android:layout_marginRight="10dp"
+                android:layout_weight="1"
+                android:background="@mipmap/add" />
+
+            <Button
+                android:id="@+id/buttonhop"
+                android:layout_width="66dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="20dp"
+                android:layout_marginRight="20dp"
+                android:layout_weight="1"
+                android:background="@mipmap/audio" />
+
+            <Button
+                android:id="@+id/eksi"
+                android:layout_width="57dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="80dp"
+                android:layout_weight="1"
+                android:background="@mipmap/minus" />
+
+            <Button
+                android:id="@+id/giris_ikiye_git"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_marginRight="50dp"
+                android:layout_marginBottom="30dp"
+                android:background="@mipmap/arrove" />
+        </LinearLayout>
+    </LinearLayout>
+
+</android.support.constraint.ConstraintLayout>

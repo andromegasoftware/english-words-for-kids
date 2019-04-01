@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/aclonica</item>
+        <item>@font/coming_soon</item>
+        <item>@font/montserrat_alternates</item>
+        <item>@font/montserrat_subrayada</item>
+        <item>@font/the_girl_next_door</item>
+    </array>
+</resources>

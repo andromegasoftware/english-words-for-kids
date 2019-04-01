@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Okul Öncesi İngilizce</string>
+    <string name="cik">Çıkış</string>
+    <string name="soru">Oyundan Çıkmak İstiyormusunuz?</string>
+    <string name="hayir">Hayır</string>
+    <string name="evet">Evet</string>
+
+
+</resources>

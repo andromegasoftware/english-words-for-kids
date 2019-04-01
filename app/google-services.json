@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "671697422488",
+    "firebase_url": "https://learnenglishforkids-58d3e.firebaseio.com",
+    "project_id": "learnenglishforkids-58d3e",
+    "storage_bucket": "learnenglishforkids-58d3e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671697422488:android:10832cf1ee5954e3",
+        "android_client_info": {
+          "package_name": "com.kadir.learnenglishforkids"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671697422488-qabmaqc0gtct9vir4722p28fsq8tn44v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kadir.learnenglishforkids",
+            "certificate_hash": "27c0eafc8df0b629e4c408213a7b0252471a72e9"
+          }
+        },
+        {
+          "client_id": "671697422488-02cvgot2jcqt2v2sqvv9a8ol6fj4t3mu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjL4MjGsItEIvH6vxGVNmbiz4xMQluz28"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "671697422488-02cvgot2jcqt2v2sqvv9a8ol6fj4t3mu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
